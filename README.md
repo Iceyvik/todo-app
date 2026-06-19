@@ -28,7 +28,7 @@ https://todo-app-six-chi-15.vercel.app/
 
 ## 📸 Preview
 
-<img width="100%" alt="Todo App Preview" src="https://via.placeholder.com/1200x600?text=Todo+App+Preview">
+![Todo App Preview](./image.png)
 
 ## 🚀 Run Locally
 
