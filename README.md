@@ -25,3 +25,10 @@ A modern and responsive Todo Application built with React and Vite.
 ```bash
 npm install
 npm run dev
+
+Live Demo:
+Coming Soon
+
+Author:
+Vikas Singh
+GitHub: https://github.com/Iceyvik
