@@ -86,7 +86,6 @@ todo-app/
 **Vikas Singh**
 
 - GitHub: https://github.com/Iceyvik
-- LinkedIn: www.linkedin.com/in/vikassingh45
 
 ---
 
