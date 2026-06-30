@@ -30,32 +30,6 @@ https://todo-app-six-chi-15.vercel.app/
 
 ![Todo App Preview](./image.png)
 
-## 🚀 Run Locally
-
-Clone the project
-
-```bash
-git clone https://github.com/Iceyvik/todo-app.git
-```
-
-Go to the project directory
-
-```bash
-cd todo-app
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start the development server
-
-```bash
-npm run dev
-```
-
 ## 📂 Project Structure
 
 ```text
